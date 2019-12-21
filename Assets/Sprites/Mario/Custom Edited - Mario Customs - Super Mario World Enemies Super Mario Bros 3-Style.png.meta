@@ -1,0 +1,5435 @@
+fileFormatVersion: 2
+guid: 4843297d73023f844a49ae7716859c7f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_0
+    21300002: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_1
+    21300004: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_2
+    21300006: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_3
+    21300008: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_4
+    21300010: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_5
+    21300012: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_6
+    21300014: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_7
+    21300016: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_8
+    21300018: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_9
+    21300020: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_10
+    21300022: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_11
+    21300024: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_12
+    21300026: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_13
+    21300028: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_14
+    21300030: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_15
+    21300032: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_16
+    21300034: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_17
+    21300036: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_18
+    21300038: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_19
+    21300040: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_20
+    21300042: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_21
+    21300044: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_22
+    21300046: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_23
+    21300048: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_24
+    21300050: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_25
+    21300052: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_26
+    21300054: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_27
+    21300056: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_28
+    21300058: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_29
+    21300060: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_30
+    21300062: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_31
+    21300064: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_32
+    21300066: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_33
+    21300068: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_34
+    21300070: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_35
+    21300072: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_36
+    21300074: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_37
+    21300076: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_38
+    21300078: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_39
+    21300080: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_40
+    21300082: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_41
+    21300084: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_42
+    21300086: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_43
+    21300088: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_44
+    21300090: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_45
+    21300092: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_46
+    21300094: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_47
+    21300096: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_48
+    21300098: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_49
+    21300100: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_50
+    21300102: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_51
+    21300104: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_52
+    21300106: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_53
+    21300108: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_54
+    21300110: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_55
+    21300112: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_56
+    21300114: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_57
+    21300116: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_58
+    21300118: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_59
+    21300120: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_60
+    21300122: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_61
+    21300124: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_62
+    21300126: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_63
+    21300128: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_64
+    21300130: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_65
+    21300132: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_66
+    21300134: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_67
+    21300136: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_68
+    21300138: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_69
+    21300140: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_70
+    21300142: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_71
+    21300144: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_72
+    21300146: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_73
+    21300148: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_74
+    21300150: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_75
+    21300152: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_76
+    21300154: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_77
+    21300156: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_78
+    21300158: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_79
+    21300160: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_80
+    21300162: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_81
+    21300164: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_82
+    21300166: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_83
+    21300168: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_84
+    21300170: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_85
+    21300172: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_86
+    21300174: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_87
+    21300176: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_88
+    21300178: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_89
+    21300180: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_90
+    21300182: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_91
+    21300184: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_92
+    21300186: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_93
+    21300188: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_94
+    21300190: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_95
+    21300192: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_96
+    21300194: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_97
+    21300196: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_98
+    21300198: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_99
+    21300200: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_100
+    21300202: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_101
+    21300204: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_102
+    21300206: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_103
+    21300208: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_104
+    21300210: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_105
+    21300212: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_106
+    21300214: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_107
+    21300216: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_108
+    21300218: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_109
+    21300220: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_110
+    21300222: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_111
+    21300224: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_112
+    21300226: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_113
+    21300228: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_114
+    21300230: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_115
+    21300232: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_116
+    21300234: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_117
+    21300236: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_118
+    21300238: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_119
+    21300240: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_120
+    21300242: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_121
+    21300244: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_122
+    21300246: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_123
+    21300248: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_124
+    21300250: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_125
+    21300252: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_126
+    21300254: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_127
+    21300256: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_128
+    21300258: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_129
+    21300260: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_130
+    21300262: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_131
+    21300264: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_132
+    21300266: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_133
+    21300268: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_134
+    21300270: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_135
+    21300272: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_136
+    21300274: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_137
+    21300276: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_138
+    21300278: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_139
+    21300280: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_140
+    21300282: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_141
+    21300284: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_142
+    21300286: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_143
+    21300288: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_144
+    21300290: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_145
+    21300292: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_146
+    21300294: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_147
+    21300296: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_148
+    21300298: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_149
+    21300300: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_150
+    21300302: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_151
+    21300304: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_152
+    21300306: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_153
+    21300308: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_154
+    21300310: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_155
+    21300312: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_156
+    21300314: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_157
+    21300316: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_158
+    21300318: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_159
+    21300320: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_160
+    21300322: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_161
+    21300324: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_162
+    21300326: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_163
+    21300328: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_164
+    21300330: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_165
+    21300332: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_166
+    21300334: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_167
+    21300336: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_168
+    21300338: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_169
+    21300340: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_170
+    21300342: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_171
+    21300344: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_172
+    21300346: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_173
+    21300348: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_174
+    21300350: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_175
+    21300352: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_176
+    21300354: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_177
+    21300356: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_178
+    21300358: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_179
+    21300360: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_180
+    21300362: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_181
+    21300364: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_182
+    21300366: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_183
+    21300368: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_184
+    21300370: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_185
+    21300372: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_186
+    21300374: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_187
+    21300376: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_188
+    21300378: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_189
+    21300380: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_190
+    21300382: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_191
+    21300384: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_192
+    21300386: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_193
+    21300388: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_194
+    21300390: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_195
+    21300392: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_196
+    21300394: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_197
+    21300396: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_198
+    21300398: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_199
+    21300400: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_200
+    21300402: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_201
+    21300404: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_202
+    21300406: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_203
+    21300408: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_204
+    21300410: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_205
+    21300412: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_206
+    21300414: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_207
+    21300416: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_208
+    21300418: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_209
+    21300420: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_210
+    21300422: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_211
+    21300424: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_212
+    21300426: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_213
+    21300428: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_214
+    21300430: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_215
+    21300432: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_216
+    21300434: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_217
+    21300436: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_218
+    21300438: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_219
+    21300440: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_220
+    21300442: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_221
+    21300444: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_222
+    21300446: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_223
+    21300448: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_224
+    21300450: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_225
+    21300452: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_226
+    21300454: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_227
+    21300456: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_228
+    21300458: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_229
+    21300460: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_230
+    21300462: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+      Bros 3-Style_231
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 833
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f5ac68289b1f438b940262ccd6886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 833
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa04c178cbae14990c824f10de3e7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 833
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5585950249b5904887c9e57eb985982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 833
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb2a523ef86b86428b69c08ac756b55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 833
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478aed432a73b8c4e85391baf55121ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff463e0dbb6494ab835d50bc31ff77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 833
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b653933b9b1524eaa0a7fc47466843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 833
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a023922cf7c37446b97d167a8bdb549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 800
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0fe6cbc85ff34428f21ee6cb60c174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8f4d92fa275ba428dd4859205fe958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 800
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c0f9fe9cdf37b479790f2660e65d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 800
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac5ff780b67fa54caecf59bd66ea3b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 800
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d626030da3d64041a893f6997400165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 760
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497b3408f27999545b7d4548c074bdc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 760
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07988d89b62626442a29bad089796b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 760
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202dde44776f10a4ebd5342c4bcecd5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 760
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6687da189fd46147a24e4696708622a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 761
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9933c0814097c214ca3866cf56f6725f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 760
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05231f912e411af44ab8bb56848fc348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 760
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bb090d6fef112408f046b18ef84124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 760
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eaccf65daf4254fbdb0d7061df27fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bb192e04182654c81ca2001538e18e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0cd099afc35ff49acfacf8cfb6bc14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48113e7b58b29e4ea203a4f5ab9dd98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 736
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7f8c8f5a0c5a4f9f3f1986e12abee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642c6679ecbb534c89c07f9c0f5e888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 712
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0370aaa7806c26842831c4868e6feb41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 712
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aa3b4f132251c4d89b1df9ca751ab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 712
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aebc1016efc71944982d44766e524b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daffcd5594d1a2c498f041f48e68d6f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 712
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0952f16e26162034697c4c2642e883c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0740239116378545a67347ba662ceb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 712
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d44695f0da75439b797c147ffa4a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 680
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c31ab69b9e3333499a90955b95bbf1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d6777e69cb18346bd659ca38e63e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 680
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36cf366f01ab9c46a3c30398ebb6138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 680
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a1395c802d1d48a35dd9664f37d4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 680
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c72174b02413e4797e2fc3e8eccdd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 680
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc846debc1a195348989db25f8249b2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 650
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa31fee403d0a4fba846a88e864e7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 648
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feea55fb7879539489119d3210b8d4da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 649
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e234150283dd5441ad3f54d8101bfb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 650
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565f376b6bbf9f40995ac300a44afd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 650
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109052e3a74872444b8b9f85626ea22f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 648
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f54721ef936a1449422f9a1080fbc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 649
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a3449af7f04b498ece7f6f0810c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 650
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb89c5de891374aaa271820b0430ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5561d0b126cb2fc4fb844a355e6ec6f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_48
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301dc806ba946de4387033bd4e098f8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 584
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94807b9f03003914681ad6a7b37a8705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_50
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 584
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea9b0d8dae88224fb0d3f68e5d85561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 592
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f98b7dbcefc9c84cbf8c4d574a90382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 592
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9911dcdc15ff5a41abe80180054eac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a2c8c7bf53ad44e8d4f241b0c626db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9555543b3d0256149b0ad4b58d0f0752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 497
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b2d0089c7ebda488705df9d9a3674f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_56
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d695518cd711c6d40a5f3cc3dd6646d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_57
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 497
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5c0604812b064584e9303d43fcfc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 497
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47068de46edf84a48b199bad19885699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_59
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 497
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d258cd62a4b56344b9279b9302cf52a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 497
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee51ee077621543bb164d86ddd4d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 497
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fdc2061088ad34684ef10a6e21b371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9994524f30d7e4091ffa9aeb2fd2a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a705a01c7bd3145a42018e880e4870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 472
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9fda405ea244d4fa58ce0a47e4be7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 472
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc7bcef73be74543a28218d1aeda395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69428fd6a28812d41936bd29b3d320bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 433
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f498734ed4fad48955ca49f5e912ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462557375bccfb4d93412f7e565a289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d02f9ad765b742a359a55b67c00f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239c6578e3635149903f599752bdd2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 432
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df115276965324eaf79b3c434411ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c42d698a82f0754283cb2c8c35649ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e5176f1d311441afcca61c196a07e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 392
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a4fef620527d64ca32ac15886000cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47184614dc4ff0489c817f6fd99767d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 392
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b19591ea7de7349901b6cdac4506c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 377
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febfa9c674f7eb641b3706126bd986e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_78
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 377
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20b8f3590f512c4ab7c65b93204ef24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_79
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 377
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8938670bdfdab4792a1a7d8f6f7747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 377
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684605c1baeda71408a4f0b423b08329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 377
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500bbeaac55f48b4fb304c7b160d94d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_82
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 377
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c6cc51869e9e418f451c19f6e021c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 377
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18281228cc542814d9b89bd01597c5e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 377
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac425d6fe42450a4384ce6b9d88cc861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 377
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1912e7bce5972e24481ade1a6b6d4050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_86
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bdd34d6476a8e47840458ca02159fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 336
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41399add3af4e384f92964da213c21c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_88
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 338
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebc73632ca64c146bb646241da40c5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fa6548458e7584a8524619976e99ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_90
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 336
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c8826c8c80acc42b630101eeb576fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 338
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f028575c2b86faf4b8d5aaf21e0c97fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_92
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 304
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d30010f819f47419d022caa3152be4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6220d55d1694545a79b462d865b1b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b28b94130c4844a26f20444a19836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c6166fd15ad7e49991e3f24ddadfa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_96
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 296
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f996cb468c9f4c90a90f1a9fa5f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2052e46d6ad10784ea079b932922466c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_98
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 272
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83631a4977e45f94ca7a78154c8f7494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b675d06b79cfe346a6e0c79cd7f6e86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_100
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c16d9a11f5e1024fab75c9473e3ef40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_101
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e3bda212f56ff4f982a739fb86d952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_102
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 257
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020717d1d013984f89ed9a403cc334e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_103
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 257
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4dee2861328be418ec29f39a8107fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 257
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0f1cb0dccaae47b8352dbffc1142c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983bfe0a74078104f924090c3a616ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405126bfd4e9c8d438ea3ed5ba6d8627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7cc7877d2c76440860bb7b3912a136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d36a09c6164964da14227f15cd5165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_109
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 216
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e3bb063214d5409c0e1acfcb9d4e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f740d9448940c84fb0a103bd2692096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f010c72acc7f51d4eac6feba79b1c726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf6ec3763482443b6fbc566137538d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd881b68257a3eb418bf07a9657f2ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620eb13f287c4f24fb8260a75ae04245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b0bf090e469374a89688ca4aa816f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1484d8f58e576a4fa458e39c35317c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d640ad901fe25c643bd981d1312d86a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f32a45a88cafd43b00a28ffe2d597f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88fac54489333f4bb6c894e1f060793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f469365fb5b7d14ba39d66d7284017d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_121
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ebc6cce6daab6449a504341e474066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79119ee49b93d114e924ac522708167c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_123
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126d99d9f97a054f8cad9347740e5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a11444553749429b32647a86785e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f92afe4f4934ea43afcdb36d5d73cfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe3811650709c945aec028612e054fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb7766dd9e17204da4e88cd6f09b75d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2b3aa1b8382742a5cf4893a2c9bfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3d2413d1f2e724290897be6e4e9b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_130
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 120
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e2c31189482e14899c4f9021af4b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d862b5a1958454997185adc463e02d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_132
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e5c52212ccca4e9afd3bcb7ff33ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_133
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322d358034227e249ac843ed0e21dd3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_134
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 88
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a480613499259468109c54640c343f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_135
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 88
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae049323b47d5d24a8c6757b0751dbbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_136
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 88
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c52c8d5c1cdf4c8359e2855b26b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_137
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 88
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567dcd00ded0ab843a6c837efaa31afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_138
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 88
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10608f7347547440ab12762fd3ebb01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_139
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 88
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c2aa17fa4ca27498e3017cf06ec9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_140
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 88
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6590dd84234645e4a965bb31ba557262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_141
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a14c0a622f18b49b6241e75de28f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe5bea64fccac54abd7800be17ecf7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_143
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68fada615604a41b26a72cdcb41b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64585cd206c59946ada2f453760eb5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_145
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 66
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4635fdf318ead648830c1ded63d26ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 66
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f133917d46e8e7438c25970c4885bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_147
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd10e1ccbc5f74b883efc7ba8b7b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_148
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d81c6bc510f106448f7f9c007684dbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_149
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f97a76875f0864fae1fdd3bebd8cdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d90f37d3889440ab073e9d53a37a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 49
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d5b9554d00504cba7cb07efef555a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_152
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0313a5e31fd244cb693ec017401cee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_153
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3053d41137a554b8f198c73629c1da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_154
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be931c081173eab41ae78a6c281a03cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_155
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75aedfee9352c45913408533ff837a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03fdc7f6b3066644b041c477c44b427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_157
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d854e02c6c1fd45ba3f30627ed3bad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_158
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c1342ec8e0fa4eb0681f7ae51a61a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18f545a8b6805243ba18cfa5b00686b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_160
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab54066fd68d02499e2145f9e3f474a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b5cdc1faf0a17428c7a6d277da460a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_162
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1357717327b5649b5b6f2a0d64aaf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_163
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b177c28a40c4b429f8f91a197b12ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03639710d65bb1f4789378ec54c61a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_165
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d988dbb2a94534b90165a67986a0d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058acc48eb4e284a80cb809d1438022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_167
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413fac2625dc3f4884c790d44c4a761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_168
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b3221fefc41a42be44a10b90dd4c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_169
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d72acfdf5f1f428fe7d6a1a3c596d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_170
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2be67489a55624aa4ce423efae38e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc619f9074725459c86af9b455f73b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0c5a3c0c5b10548b8a4aa4601d0007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_173
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5717c395de3a7f428cebc29141f454f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93db110abc1773e4cab1fdf3d30fa865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_175
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d7fcc6e8aacb346a8302973c7318d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_176
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 33
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4168a4e33bea6a41a0e5f3c60a9e34a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bf242abfa9a846a20a38023cb5258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_178
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 41
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c06c1754d3fb498fdff00284c51ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_179
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e665b9dc68e442a3dfe2a0c9de63a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_180
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd633e2270847a4cb0281741996aa21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c58fa818bdb94c905753fe9feb579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_182
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7d5f33cbb90c48a8a0eaf5e29e158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cf95fd1c1120d419fd3ca1ec76cf41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_184
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94707cb284d1e9140b4718093bc61ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_185
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6f047903ec1341abd40222baaa3e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_186
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd408a347812a41a0b89a967a57d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739859ff66fc054aaa4ee2143cbac5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_188
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e16892d748f8468f20c88ae8467b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_189
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d4ff52da70c6d49ab6bdfd5ef33a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4672535504939074ca224f62ba95ae42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_191
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3739d3611d5444ebff17536fa3d0f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_192
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816350c754f7ff04f95f0bbb3571680c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9a69e373ba1f478fc2a8035b865a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_194
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb877176c3a8584e8e64e1ea01b7289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_195
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf2e3ea08c42a14e93f72deeb24a5ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_196
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644fe26038358b94284f7a82de431fe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_197
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926bdd05731139b47a08283898a37c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_198
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb5fb8a44b15945b5ba8b63658c180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3bdbe78363e724cbf4e2bba5053372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e750fc34f10dd4f9103157665ceb39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_201
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0c50a4c718fe4c9db09b5bea05416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ea7b258f331a14195c69d82a595e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_203
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296f5e93ec3416046bf0166b119ebb5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_204
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d1bcc3317cdfc4481893d56a27c50d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_205
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4355fec6698b42b45f72842c118d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_206
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 25
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb53e385d4bc5da4ebb526f115daa10d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_207
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb60895a10822241978a671810125c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_208
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fbf105ce17555428f436fc758efd82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_209
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa0af7f30beb14d91b253d5a6f0be5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_210
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475293392efa0e84983e424ba442cba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_211
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5958b6a9ef42f974a8d4056655564f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_212
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 25
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf138d26ed10fd742af1da941985df2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_213
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf14915df12f944b2a9bd0fd6f41c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_214
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcccb369557b9b54082fd5a76cee02a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_215
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c014c726d1c304689ca7f8aeead6c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_216
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50847a8c53179fc479d510f62d005e27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_217
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d1c0a81d41c14bb011db1f6c988e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_218
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446d5d8c4f88794894f47613b3b271a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_219
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8525973da90cba2449da001531b38ec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_220
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3686539cf16d441b0715de1dd45800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_221
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78aed9be243c104e955150d61495d06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_222
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5605d51189089943b150cb716774f35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_223
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ce0a51fab8b941a17c2138a916b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_224
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca333597b3b5a4c97c5d931e0b0eca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_225
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a631031ae7502ec4a9bff2e3502b6cde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_226
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaa655f2707ee34a94e87d05df122ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_227
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab702430f894dc4f88eb26f866a898f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_228
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d7b6edc208d5a49957d98fefce81d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_229
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a233622579304419567af334d15bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_230
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eeaa7696f927a488835de013aa48d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Super Mario World Enemies Super Mario
+        Bros 3-Style_231
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4862ce5769bf9b84eb3425d4058387ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9b075a7b45b122144b004f5330a36287
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
