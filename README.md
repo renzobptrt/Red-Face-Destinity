@@ -56,6 +56,24 @@
 ![RFD_Screen11](https://user-images.githubusercontent.com/42262419/71552374-de1f9b00-29c9-11ea-9d82-b2a9d8f9d0f0.PNG)
   > GUI_GameOverScene
   
-
+ -Game: 
+ 
+ <a href="https://imgflip.com/gif/3koq8i"><img src="https://i.imgflip.com/3koq8i.gif" title="made at imgflip.com"/></a>
+  > Start Game
+  
+ <a href="https://imgflip.com/gif/3koqc7"><img src="https://i.imgflip.com/3koqc7.gif" title="made at imgflip.com"/></a>
+  > In Game
+  
+ <a href="https://imgflip.com/gif/3koqhh"><img src="https://i.imgflip.com/3koqhh.gif" title="made at imgflip.com"/></a>
+  > Enemy damage
+  
+ <a href="https://imgflip.com/gif/3koqiw"><img src="https://i.imgflip.com/3koqiw.gif" title="made at imgflip.com"/></a>
+  > Player dead
+ 
+ <a href="https://imgflip.com/gif/3koqva"><img src="https://i.imgflip.com/3koqva.gif" title="made at imgflip.com"/></a>
+  > Restart game
+ 
+ <a href="https://imgflip.com/gif/3koqxc"><img src="https://i.imgflip.com/3koqxc.gif" title="made at imgflip.com"/></a>
+  > End game
 
 
