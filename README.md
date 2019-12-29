@@ -1,4 +1,4 @@
-# GoToCoin
+# Red-Face-Destinity
 2D video game about a player who has to run as much as he can on randomly generated platforms.
 
 ## Characteristics
