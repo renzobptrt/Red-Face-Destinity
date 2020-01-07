@@ -3,7 +3,7 @@
 
 ## Characteristics
 - Type: 2D
-- Point of view: Second person
+- Point of view: Third person
 - Gender: Platform endless runner
 - Platform: Mobile
 - Graphics engine: Unity 2D
