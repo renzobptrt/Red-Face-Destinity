@@ -1,7 +1,7 @@
 # Red-Face-Destinity
 2D video game about a player who has to run as much as he can on randomly generated platforms.
 
-## Characteristics
+## Features
 - Type: 2D
 - Point of view: Third person
 - Gender: Platform endless runner
